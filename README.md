@@ -47,32 +47,6 @@
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/office.svg" alt="Office" width="40" height="40" />&nbsp;</p>
 </p><br>
-<!--Connect Section-->
-<hr>
-<p align="center">
-<i>Let's connect and chat! Open to anything under the sun.</i><br>
-<p align="center">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://linkedin.com/in/abhinav-bohra">
-		<img alt="Abhinav Bohra - LinkedIn" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
-	</a>
-	<a href="https://scholar.google.com/citations?user=F51Ct9oAAAAJ&hl=en&oi=ao">
-		<img alt="Abhinav Bohra - Google Scholar" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/google_scholar.svg"/>
-	</a>
-	<a href="mailto:abhinavbohra01@gmail.com">
-		&nbsp;&nbsp;<img alt="Abhinav Bohra - Mail" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/email.svg"/>
-	</a>
-	<a href="https://instagram.com/abhinavbohra01">
-		&nbsp;&nbsp;<img alt="Abhinav Bohra - Instagram" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ig.svg"/>
-	</a>
-	<a href="https://facebook.com/abhinavbohra01">
-		&nbsp;&nbsp;<img alt="Abhinav Bohra - Facebook" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/fb.svg"/>
-	</a>
-<img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
-</p><br><br>
 
-<!-- Profile Views -->
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=abhinav-bohra&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-bohra" height=21px/></p>
 
-**[Visit my website &rarr;](https://abhinavbohra.technology/)**
